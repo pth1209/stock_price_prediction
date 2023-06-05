@@ -10,6 +10,7 @@ pip install yahoo-finance
 pip install -U scikit-learn
 ```
 More information about these dependencies can be found here:
+
 https://numpy.org/install/
 
 https://pandas.pydata.org/docs/getting_started/install.html
@@ -17,4 +18,5 @@ https://pandas.pydata.org/docs/getting_started/install.html
 https://pypi.org/project/yahoo-finance/
 
 https://scikit-learn.org/stable/install.html
+
 
