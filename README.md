@@ -3,8 +3,18 @@
 ### Built a linear regression model to predict the price of a stock
 
 ### Dependencies to Install
-Numpy - depending on whether you are using conda environment or python
 ```
-conda install numpy
-pip3 install numpy
+pip install numpy
+pip install pandas
+pip install yahoo-finance
+pip install -U scikit-learn
 ```
+More information about these dependencies can be found here:
+https://numpy.org/install/
+
+https://pandas.pydata.org/docs/getting_started/install.html
+
+https://pypi.org/project/yahoo-finance/
+
+https://scikit-learn.org/stable/install.html
+
